@@ -1,0 +1,37 @@
+*{
+    line-height: 1.2;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#container {
+    margin: auto;
+    width: 500px;
+    padding: 10px;
+}
+ul {
+    list-style: none;
+}
+h1 {
+    color: darkred;
+    text-align: center;
+    font-weight: bold;
+    font-style: oblique;
+}
+.recipe-card {
+    width: 600px;
+    text-align: left;
+    background-color: #FFFAFA;
+    border: 5px solid black;
+}
+.lasagna-content h2 {
+    text-align: left;
+    color: blue;
+}
