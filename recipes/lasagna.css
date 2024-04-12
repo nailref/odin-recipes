@@ -30,6 +30,7 @@ h1 {
     text-align: left;
     background-color: #FFFAFA;
     border: 5px solid black;
+    border-style: hidden;
 }
 .lasagna-content h2 {
     text-align: left;
